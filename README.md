@@ -5,9 +5,9 @@
 > "在你批评世界之前，先把自己的房间收拾干净。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以乔丹·彼得森的视角回应你 -- 秩序与混沌之间的责任之道**
+**让 AI 以乔丹·彼得森的视角回应你 -- 秩序与混沌之间的责任之道**
 
 </div>
 
